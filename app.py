@@ -1,4 +1,4 @@
-import streamlit as st
+st.image("https://www.qualcomm.com/news/onq/2023/10/getting-personal-with-on-device-ai", caption="AI-Powered Streamlit App")
 import requests
 import json
 import base64
