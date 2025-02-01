@@ -1,3 +1,4 @@
+import streamlit as st
 st.image("https://media.defense.gov/2021/Jul/22/2002808321/1920/1080/0/210722-D-IM742-1234.JPG" , caption="AI-Powered Streamlit App")
 import requests
 import json
